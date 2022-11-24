@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Uniti-intro-main\TP\obj\Debug\net6.0\TP.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Uniti-intro-main\TP\obj\Debug\net6.0\TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Uniti-intro-main\TP\obj\Debug\net6.0\TP.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Uniti-intro-main\TP\obj\Debug\net6.0\TP.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Uniti-intro-main\TP\obj\Debug\net6.0\TP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Uniti-intro-main\TP\bin\Debug\net6.0\TP.exe
+C:\Users\Admin\Desktop\Uniti-intro-main\TP\bin\Debug\net6.0\TP.deps.json
+C:\Users\Admin\Desktop\Uniti-intro-main\TP\bin\Debug\net6.0\TP.runtimeconfig.json
+C:\Users\Admin\Desktop\Uniti-intro-main\TP\bin\Debug\net6.0\TP.dll
+C:\Users\Admin\Desktop\Uniti-intro-main\TP\bin\Debug\net6.0\TP.pdb
+C:\Users\Admin\Desktop\Uniti-intro-main\TP\obj\Debug\net6.0\TP.dll
+C:\Users\Admin\Desktop\Uniti-intro-main\TP\obj\Debug\net6.0\refint\TP.dll
+C:\Users\Admin\Desktop\Uniti-intro-main\TP\obj\Debug\net6.0\TP.pdb
+C:\Users\Admin\Desktop\Uniti-intro-main\TP\obj\Debug\net6.0\TP.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Uniti-intro-main\TP\obj\Debug\net6.0\ref\TP.dll
