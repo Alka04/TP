@@ -6,28 +6,21 @@ class Program
 {
     static void Main(string[] args)
     {
-        bool bFortsätt = true;
+        Console.WriteLine("Skriv ett heltal");
+        Console.WriteLine(ToaParse());
+    }
 
-        while (bFortsätt)
+    public static bool ToaParse()
+    {
+        string Wallah = Console.ReadLine();
+        try
         {
-            Console.WriteLine("Skriv ett nummer: ");
-            string numInput = Console.ReadLine();
-            
-            int num = 0;
-            bool success = Int32.TryParse(numInput, out num);
-
-            if (success)
-            {
-                bFortsätt = false;
-                Console.WriteLine(num);
-            }
-            else
-            {
-                Console.WriteLine("Felaktigt värde");
-            }
+            int num = Int32.Parse(Wallah);
+            return true;
         }
-        Console.WriteLine("Klicka för att avsluta");
-
-        Console.ReadLine();
+        catch
+        {
+            return false;
+        }
     }
 }
